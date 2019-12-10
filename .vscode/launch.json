@@ -1,0 +1,60 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "carpetapadre.Test",
+            "projectName": "java_156dab15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "carpetaPadre.Test",
+            "projectName": "java_156dab15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Num",
+            "request": "launch",
+            "mainClass": "Num",
+            "projectName": "java_156dab15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Casa",
+            "request": "launch",
+            "mainClass": "Casa",
+            "projectName": "java_156dab15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fizz",
+            "request": "launch",
+            "mainClass": "Fizz",
+            "projectName": "java_156dab15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Kata",
+            "request": "launch",
+            "mainClass": "Kata",
+            "projectName": "java_156dab15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java_156dab15"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "otro_157037d5"
+        }
+    ]
+}
